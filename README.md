@@ -1,6 +1,6 @@
 # Apex_t2
 **Apex_Task2**
-**🌐 Task 2: Intermediate HTML, CSS, and JavaScript**
+**: Intermediate HTML, CSS, and JavaScript**
 This task focuses on creating a functional contact form with advanced HTML form elements, CSS styling, and JavaScript form validation and handling.
 
 **📌 Objectives**
@@ -25,6 +25,9 @@ This task focuses on creating a functional contact form with advanced HTML form 
 * Dynamic content updates and user feedback notifications.
 
 **📂 Folder Structure**
-**apex_t2.html # Main HTML file with contact form**
-**apex_t2.css # CSS styling for form elements**
-**apex_t2.js # JavaScript for form validation and handling**
+
+*apex_t2.html # Main HTML file with contact form*
+
+*apex_t2.css # CSS styling for form elements*
+
+*apex_t2.js # JavaScript for form validation and handling*
